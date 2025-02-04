@@ -54,6 +54,4 @@ Ao documentar constantemente tudo o que você aprende, você cria um **repositó
  │   ├── Testes_Automatizados.md
 ```
 
-## 🔥 Comece Agora!
-Basta criar seu próprio repositório e começar a documentar tudo o que você aprende! Utilize a metodologia **DocDev** para acelerar seu desenvolvimento e construir um repositório de conhecimento que será essencial para sua jornada como programador. 🚀
 
